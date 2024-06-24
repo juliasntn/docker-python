@@ -168,4 +168,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Contato
 
-E-mail:falecomjuliadesantana@gmail.com
+E-mail:falecomjuliasantana@gmail.com
